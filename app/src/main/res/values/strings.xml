@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="news_desc">News Description</string>
+    <string name="news_id">News Title</string>
+    <string name="news_img_desc">Image of a news article</string>
+    <string name="tools_text_desc">A description of an article goes here. This description will be no
+        longer than 3 lines. May be changed according to preferences, but consider UI/UX.</string>
+    <string name="cat">Categories</string>
+</resources>
